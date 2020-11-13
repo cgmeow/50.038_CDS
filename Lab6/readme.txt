@@ -1,0 +1,1 @@
+Aim to make sentiment analysis classifier using simple NN
